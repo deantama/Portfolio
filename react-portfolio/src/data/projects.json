@@ -1,0 +1,35 @@
+[
+  {
+    "title": "RockPaperScissors",
+    "imageSrc": "projects/project.png",
+    "description": "The Rock, Paper, Scissors game project using the Python programming language.",
+    "skills": ["Python", "Machine Learning"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/deantama/rockpaperscissors"
+  },
+  {
+    "title": "Data Negara Penerima Bantuan",
+    "imageSrc": "projects/project.png",
+    "description": "Analyzing countries in need of assistance with a budget $ 10 million dollars using the K-Means clustering method",
+    "skills": ["Python", "Streamlit"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Sales Collection",
+    "imageSrc": "projects/project.png",
+    "description": "Analyzing customers and sales trends and also implementing the RFM method.",
+    "skills": ["Python", "Streamlit"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/deantama/sales-collection"
+  },
+  
+  {
+    "title": "Website Kopi",
+    "imageSrc": "projects/project.png",
+    "description": "create a website coffe using HTML and CSS",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://deantama.github.io/kopi-kenangan-senja/",
+    "source": "https://github.com/deantama/kopi-kenangan-senja"
+  }
+]

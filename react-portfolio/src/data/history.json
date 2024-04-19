@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Security Building",
+    "organisation": "PT Samudera Indonesia",
+    "startDate": "Jan, 2021",
+    "endDate": "Present",
+    "experiences": ["Ensure the assets in the building area keep safe", "Monitor and Authorize entrance of vehicles or people in the building"],
+    "imageSrc": "history/samudera_indonesia.png"
+  },
+  {
+    "role": "Staff Warehouse",
+    "organisation": "PT Fujiyama Marketing",
+    "startDate": "Mar, 2017",
+    "endDate": "Oct, 2017",
+    "experiences": ["Receive and process warehouse, stock products", "Complete diary logs into inventory"],
+    "imageSrc": "history/fujiyama.png"
+  },
+  {
+    "role": "Operator Produksi",
+    "organisation": "PT Mayora Indah Tbk",
+    "startDate": "Ags, 2015",
+    "endDate": "Des, 2015",
+    "experiences": [
+      "Maintaining the production machine in good condition",
+      "Create an expired date on food packaging"
+    ],
+    "imageSrc": "history/mayora.png"
+  }
+]
